@@ -5,7 +5,7 @@
 <h3 align="center">Passionate Frontend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ0dG9qbGdrOTBpMmYyZnA0azRxMnU2bGh2c3BsZ2dlNGg5eGE4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRf5fsn8G6YaogAWxn/giphy.webp" >
 
-- 🌱 I’m currently learning **Express, Node**
+- 🌱 I’m currently learning **Next js, Prisma**
 
 - 📫 How to reach me **rp031776@gmail.com**
 
