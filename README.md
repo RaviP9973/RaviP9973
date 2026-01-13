@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hi, I'm **Ravi Prakash Pal**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ravi+Prakash+Pal;Code+%2B+Coffee+%2B+Create;Full+Stack+%26+Algo+Enthusiast" alt="Typing SVG" />
 
 ### CSE Student @ IIIT Bhagalpur | Full Stack Developer 
 
